@@ -1,5 +1,5 @@
 const GITHUB_USERNAME = "100adim";
-const REPO_NAME = "GIS-PROJECT";
+const REPO_NAME = "GIS-PROJECT1";
 const FILE_PATH = "users.json";
 const GITHUB_TOKEN = typeof CONFIG !== "undefined" ? CONFIG.GITHUB_TOKEN : "";
 
